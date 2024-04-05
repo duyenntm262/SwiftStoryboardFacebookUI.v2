@@ -18,6 +18,10 @@ class CollectionHorizontalCell: UITableViewCell {
         collectionView.register(UINib(nibName: "CreateStoryCell", bundle: nil), forCellWithReuseIdentifier: "CreateStoryCell")
         collectionView.delegate = self
         collectionView.dataSource = self
+        
+        
+        collectionView.showsHorizontalScrollIndicator = false
+
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {

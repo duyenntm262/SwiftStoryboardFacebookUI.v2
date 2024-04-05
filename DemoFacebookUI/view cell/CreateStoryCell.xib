@@ -70,8 +70,8 @@
             <size key="customSize" width="182" height="212"/>
             <connections>
                 <outlet property="RoundedBackground" destination="ham-GO-FxV" id="PaA-2R-Jcu"/>
-                <outlet property="addIcon" destination="bK8-Pg-eSE" id="ULr-N0-K9O"/>
-                <outlet property="userImage" destination="sB3-Fy-qKm" id="wvF-iK-iTP"/>
+                <outlet property="addIcon" destination="bK8-Pg-eSE" id="0n4-nQ-POI"/>
+                <outlet property="userImage" destination="sB3-Fy-qKm" id="fNF-2P-C1W"/>
             </connections>
             <point key="canvasLocation" x="21.374045801526716" y="45.774647887323944"/>
         </collectionViewCell>

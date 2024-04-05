@@ -31,6 +31,8 @@
 		2DF5F5F52BBBA0DC00B47483 /* CollectionHorizontalCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2DF5F5ED2BBBA0DC00B47483 /* CollectionHorizontalCell.xib */; };
 		2DF5F5F82BBBA2EA00B47483 /* PostCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2DF5F5F62BBBA2EA00B47483 /* PostCell.xib */; };
 		2DF5F5F92BBBA2EA00B47483 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF5F5F72BBBA2EA00B47483 /* PostCell.swift */; };
+		2DF5F5FC2BBBC62700B47483 /* TabbarTopCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2DF5F5FB2BBBC62700B47483 /* TabbarTopCell.xib */; };
+		2DF5F5FD2BBBC62700B47483 /* TabbarTopCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF5F5FA2BBBC62700B47483 /* TabbarTopCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +81,8 @@
 		2DF5F5ED2BBBA0DC00B47483 /* CollectionHorizontalCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CollectionHorizontalCell.xib; sourceTree = "<group>"; };
 		2DF5F5F62BBBA2EA00B47483 /* PostCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PostCell.xib; sourceTree = "<group>"; };
 		2DF5F5F72BBBA2EA00B47483 /* PostCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		2DF5F5FA2BBBC62700B47483 /* TabbarTopCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabbarTopCell.swift; sourceTree = "<group>"; };
+		2DF5F5FB2BBBC62700B47483 /* TabbarTopCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TabbarTopCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -190,6 +194,8 @@
 				2DF5F5E82BBBA0DC00B47483 /* StatusCell.xib */,
 				2DF5F5EA2BBBA0DC00B47483 /* UserStoryCell.swift */,
 				2DF5F5EC2BBBA0DC00B47483 /* UserStoryCell.xib */,
+				2DF5F5FA2BBBC62700B47483 /* TabbarTopCell.swift */,
+				2DF5F5FB2BBBC62700B47483 /* TabbarTopCell.xib */,
 			);
 			path = "view cell";
 			sourceTree = "<group>";
@@ -313,6 +319,7 @@
 				2DF5F5F42BBBA0DC00B47483 /* UserStoryCell.xib in Resources */,
 				2DF5F5F82BBBA2EA00B47483 /* PostCell.xib in Resources */,
 				2DF5F5F52BBBA0DC00B47483 /* CollectionHorizontalCell.xib in Resources */,
+				2DF5F5FC2BBBC62700B47483 /* TabbarTopCell.xib in Resources */,
 				2D68CE552BBACA2B00B2566E /* Main.storyboard in Resources */,
 				2DF5F5EE2BBBA0DC00B47483 /* CreateStoryCell.xib in Resources */,
 				2D68CDF32BBA9A9A00B2566E /* Base in Resources */,
@@ -343,6 +350,7 @@
 				2DF5F5F32BBBA0DC00B47483 /* CreateStoryCell.swift in Sources */,
 				2D68CDEB2BBA9A9900B2566E /* ViewController.swift in Sources */,
 				2DF5F5F92BBBA2EA00B47483 /* PostCell.swift in Sources */,
+				2DF5F5FD2BBBC62700B47483 /* TabbarTopCell.swift in Sources */,
 				2D68CDE72BBA9A9900B2566E /* AppDelegate.swift in Sources */,
 				2D68CE2B2BBABD7C00B2566E /* VideoViewController.swift in Sources */,
 				2D68CE1B2BBA9FEB00B2566E /* CustomTabBarController.swift in Sources */,
